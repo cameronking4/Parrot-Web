@@ -106,7 +106,7 @@
 		margin-right: 0px;
 	}
 	.home_banner_area .banner_inner .banner_content .banner_map_img {
-		display: none;
+		margin-left: 100px;
 	}
 	/* End Main Menu Area css
 	============================================================================================ */
@@ -266,7 +266,7 @@
 		margin-top: 38px;
 	}
 	.home_banner_area .banner_inner .banner_content img{
-		display: none;
+		
 	}
 	.home_banner_area .banner_inner .banner_content h5 {
 		margin-top: 0px;
